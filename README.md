@@ -14,7 +14,6 @@
 
 - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
 
-<!--
 
 <br><br>
 
@@ -58,20 +57,20 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+<a href="https://facebook.io/edito13" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-edito13-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://twitter.com/edito13" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-edito13-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/edito13" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-edito13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/edito13" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-edito13-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://youtube.com/edito13" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-edito13-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
