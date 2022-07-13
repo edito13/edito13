@@ -1,18 +1,16 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Edito Tchokoso</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edito13&color=blue" alt="Profile views" /> </p>
 
 <br><br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Francisco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Francisco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Francisco-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg">
-  <img align="center" alt="Francisco-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Francisco-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Francisco-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Francisco-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />     
+  <img align="center" alt="Edito-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Edito-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Edito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Edito-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Edito-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Edito-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Edito-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />     
 </div>
 
 ## 🛠 &nbsp;Tech Stack
@@ -26,36 +24,31 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ## ⚙️ &nbsp;GitHub Analytics -->
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=edito13&show_icons=true&theme=vision-friendly-dark" alt="edito13's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edito13&layout=compact&theme=vision-friendly-dark" alt="edito13's most languages"/>
-</p>
+<!-- <p>
+<img align="left" width="530em" src="https://github-readme-stats.vercel.app/api?username=edito13&show_icons=true&theme=dracula" alt="edito13's stats"/>
+<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edito13&layout=compact&theme=dracula" alt="edito13's most languages"/>
+</p> -->
 
 <br><br>
 
 ## Contact
 
-<p align="left" style="background:yellow">
-<a href="https://facebook.io/edito13" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-edito13-05122A?style=flat&logo=facebook" alt="facebook"/>
+<p style="background:yellow">
+<a href="https://free.facebook.com/edilson.priincipmagrelo" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Edito Tchokoso-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
-<a href="https://twitter.com/edito13" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-edito13-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://twitter.com/editoh13" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Edito Tchokoso-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/edito13" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-edito13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/edito-tchocosso-a6757b222/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Edito Tchokoso-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/edito13" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-edito13-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/edito13" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-edito13-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://www.instagram.com/editoh_13/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Edito Tchokoso-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
