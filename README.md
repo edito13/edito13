@@ -13,11 +13,9 @@
 
 <br>
 
-Todos os meus repositórios com projectos já criados foram utilizado essas tecnologias para o seu desenvolvimento, apesar de vários projectos serem mais voltados a Front-End, códigos e projectos Back-End também foram e serão construidos utilizando essas tecnologias descritas ou não. Portanto, sinta-se livre para compartilhar o seu ponto de vista e crescer juntamente com esses projectos, contanto que o principal foco seja evoluir.
+Todos os meus repositórios com projectos já criados foram utilizado essas tecnologias para o seu desenvolvimento, apesar de vários projectos serem mais voltados a Front-End, códigos e projectos Back-End também foram e serão construidos utilizando essas tecnologias descritas ou não. Portanto, sinta-se livre para compartilhar o seu ponto de vista e crescer juntamente com esses projectos, contando que o principal foco seja evoluir.
 
 Welcome to my profile👋🏽
-
-### 🛠 &nbsp;Todas Stacks
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
