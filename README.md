@@ -1,9 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Edito Tchokoso</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edito13&color=blue" alt="Profile views" /> </p>
 
-<br><br>
+<br>
 
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" alt="Edito-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edito-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,7 +36,7 @@
 
 ## Contact
 
-<p style="background:yellow">
+<p style="background:yellow; display:block">
 <a href="https://free.facebook.com/edilson.priincipmagrelo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Edito Tchokoso-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
