@@ -31,8 +31,8 @@ Welcome to my profile👋🏽
 ### ⚙️ &nbsp;Análise feita pelo GitHub
 
 <p>
-<img align="left" width="485em" src="https://github-readme-stats.vercel.app/api?username=edito13&show_icons=true&theme=dracula" alt="edito13's stats"/>
-<img  width="485em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edito13&layout=compact&theme=dracula" alt="edito13's most languages"/>
+<img align="left" width="400em" src="https://github-readme-stats.vercel.app/api?username=edito13&show_icons=true&theme=dracula" alt="edito13's stats"/>
+<img  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edito13&layout=compact&theme=dracula" alt="edito13's most languages"/>
 </p>
 
 ***
