@@ -40,13 +40,13 @@ Welcome to my profile👋🏽
 ### Contacto
 Contacta-me a partir dos links abaixo.
 <p>
-<a href="https://free.facebook.com/edilson.priincipmagrelo" target="_blank">
+<a href="https://www.facebook.com/editotchokoso/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Edito Tchokoso-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
 <a href="https://twitter.com/editoh13" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Edito Tchokoso-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/edito-tchocosso-a6757b222/" target="_blank">
+<a href="https://www.linkedin.com/in/editotchokoso13/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Edito Tchokoso-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/editoh_13/" target="_blank">
