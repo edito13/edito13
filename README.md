@@ -1,12 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Edito Tchokoso</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=edito13&color=blue" alt="Profile views" /> </p> -->
 <br>
-
-## 👋 Hi, I'm Edito Tchokoso
-
 Full-Stack Software Engineer with nearly 5 years of experience building modern web and mobile applications.
 
-### 🚀 Tech Stack
+### Tech Stack
 
 Frontend  
 React • Next.js • TypeScript
@@ -20,7 +17,7 @@ Node.js • PHP • Laravel
 Databases  
 PostgreSQL • MySQL • MongoDB
 
-### 💡 About Me
+### About Me
 
 I enjoy building scalable applications, solving complex problems and creating performant user experiences.
 
